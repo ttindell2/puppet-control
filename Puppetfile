@@ -29,6 +29,6 @@ mod 'role',
   :git => 'https://github.com/ttindell2/puppet-role.git',
   :ref => 'master'
 
-mod 'profile',
-  :git => 'https://github.com/ttindell2/puppet-profile.git',
-  :ref => 'master'
+
+
+

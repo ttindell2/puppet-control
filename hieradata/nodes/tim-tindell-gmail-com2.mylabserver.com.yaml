@@ -1,8 +1,0 @@
----
-profile::nginx::vhosts:
- - 'fqdn': 'tim-tindell-gmail-com2.mylabserver.com'
-   'port': '80'
-   'server_aliases: ''
- - 'fqdn': 'tim-tindell-gmail-com2b.mylabserver.com'
-   'port': '80'
-   'server_aliases': 'tim-tindell-gmail-com2b.mylabserver.com'

@@ -25,9 +25,6 @@ mod 'ntp',
   :git => 'https://github.com/ttindell2/puppet-ntp.git',
   :ref => 'master'
 
-mod 'role',
-  :git => 'https://github.com/ttindell2/puppet-role.git',
-  :ref => 'master'
 
 
 
